@@ -107,7 +107,7 @@ pip install scikit-learn
 By predicting customer churn and identifying high-risk groups, businesses can take proactive steps to improve customer retention. This analysis provides valuable insights into customer behavior patterns that can be leveraged to reduce churn.
 
 ## Authors
-- [Your Name](https://github.com/Emekadata/Churn-Analysis)
+- [Onyeukwu Emeka](https://github.com/Emekadata/Churn-Analysis)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
